@@ -34,15 +34,19 @@ A beginner-friendly console-based Hospital Management System developed using Cor
 
 ## How to Run
 
-Compile:
-```bash
-javac src/*.java
-```
+Using Eclipse:
 
-Run:
-```bash
-java -cp src HospitalManagementSystem
-```
+1. Open the project in Eclipse.
+2. Open HospitalManagementSystem.java.
+3. Right-click on the file.
+4. Select Run As → Java Application.
+5. Check the output in the Eclipse Console.
+
+Database:
+
+- Make sure MySQL is running.
+- Make sure the database configuration in DBConnection.java is correct.
+
 
 ## Future Enhancements
 - MySQL database integration using JDBC
