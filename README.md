@@ -19,6 +19,8 @@ A beginner-friendly console-based Hospital Management System developed using Cor
 - ArrayList
 - Scanner
 - Exception Handling
+- JDBC
+- MYSQL
 
 ## Concepts Used
 - Classes and Objects
@@ -49,7 +51,6 @@ Database:
 
 
 ## Future Enhancements
-- MySQL database integration using JDBC
 - Login system
 - Billing module
 - GUI using Java Swing/JavaFX
